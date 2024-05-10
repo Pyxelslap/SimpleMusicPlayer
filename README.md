@@ -1,5 +1,5 @@
 # SimpleMusicPlayer
-A Simple Music Player made with python curses for Linux<br /><br />
+A Simple Music Player made with python curses for Linux<br />Also uses jp2a for the Image or Art cover<br />
 ![ss](screenshots/ss1.png)
 
 # Usage
