@@ -2,8 +2,9 @@
 A Simple Music Player made in python curses
 
 # Usage
-Parameter 1: For Audio file <br />
-Parameter 2: For Image/Art Cover file
+```
+$ python3 smpy.py <Audio File> <Image/Art Cover File>
+```
 
 # Keys
 Q or ESC: Quit the player <br />
