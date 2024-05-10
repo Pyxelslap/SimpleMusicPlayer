@@ -1,5 +1,5 @@
 # SimpleMusicPlayer
-A Simple Music Player made in python curses <br /><br />
+A Simple Music Player made with python curses for Linux<br /><br />
 ![ss](screenshots/ss1.png)
 
 # Usage
