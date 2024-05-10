@@ -1,5 +1,6 @@
 # SimpleMusicPlayer
-A Simple Music Player made in python curses
+A Simple Music Player made in python curses <br /><br />
+![ss](screenshots/ss1.png)
 
 # Usage
 ```
