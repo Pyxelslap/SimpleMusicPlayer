@@ -1,5 +1,6 @@
 # SimpleMusicPlayer
 A Simple Music Player made with python curses for Linux<br />Also uses jp2a for the Image or Art cover<br />
+fork from [LoccxlBedrock/SimpleMusicPlayer](https://github.com/LoccxlBedrock/SimpleMusicPlayer) but using ffmpeg as media player  
 ![ss](screenshots/ss1.png)
 
 # Usage
